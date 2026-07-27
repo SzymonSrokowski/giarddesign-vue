@@ -2,6 +2,9 @@
 
 Responsywny landing page wykonany na podstawie projektu graficznego
 przygotowanego w Figmie.
+## Demo
+
+https://giarddesign-szymon.netlify.app
 
 ## Technologie
 
